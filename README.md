@@ -1,13 +1,13 @@
 <!-- ========================================================= -->
-<!-- ========== FLAGSHIP README — FRONTIER LANGUAGE HUB ====== -->
+<!-- ======== REGIONAL DISCOVERY README — TURKIC HUB ========= -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Kurdish • Kurmanji • Sindhi • Punjabi • Kashmiri
+# Turkish • Uzbek • Kazakh • Kyrgyz • Turkmen
 ## Islam • Quran • Hadith • Data • JSON • API
 
-### A flagship repository for trusted Islamic content access across important language communities
+### A regional repository for structured Islamic content across connected Turkic language channels
 
 <br>
 
@@ -18,57 +18,55 @@
 
 <br><br>
 
-![Flagship](https://img.shields.io/badge/Flagship-Repository-0f172a?style=for-the-badge)
-![Language Reach](https://img.shields.io/badge/Language-Reach-1d4ed8?style=for-the-badge)
-![Quran Access](https://img.shields.io/badge/Quran-Access-2563eb?style=for-the-badge)
+![Regional Hub](https://img.shields.io/badge/Regional-Discovery_Hub-0f172a?style=for-the-badge)
+![Language Access](https://img.shields.io/badge/Language-Access-0369a1?style=for-the-badge)
+![Quran Data](https://img.shields.io/badge/Quran-Data-1d4ed8?style=for-the-badge)
 ![Hadith Access](https://img.shields.io/badge/Hadith-Access-7c3aed?style=for-the-badge)
 ![Official Sources](https://img.shields.io/badge/Official-Sources-166534?style=for-the-badge)
 ![MIT](https://img.shields.io/badge/License-MIT-6b7280?style=for-the-badge)
 
 <br><br>
 
-> **Built for teams that need reliable Islamic content delivery across language communities that are often harder to surface inside large multilingual repositories.**
+> **Built for teams that want clearer regional reach, cleaner language grouping, and reliable Islamic content access across major Turkic-language environments.**
 
 </div>
 
 ---
 
-## Repository identity
+## Repository overview
 
-This repository creates a dedicated access hub for:
+This repository groups five connected language channels into one practical access layer:
 
-- Kurdish
-- Kurmanji
-- Sindhi
-- Punjabi
-- Kashmiri
+- Turkish
+- Uzbek
+- Kazakh
+- Kyrgyz
+- Turkmen
 
-Its purpose is not to be a massive all-language archive.
-
-Its purpose is to give this cluster a cleaner, more visible, and more useful home for structured Islamic content access.
+The goal is simple: make this language cluster easier to find, organize, and use inside a wider Islamic content ecosystem.
 
 ---
 
-## Why this repository matters
+## Why this repository exists
 
-These languages should not disappear inside oversized multilingual repositories.
+Large multilingual repositories are useful, but they often hide strong regional language patterns.
 
-A dedicated repository improves:
+This repository solves that by giving this cluster its own cleaner surface for:
 
-- visibility
-- language targeting
-- contributor clarity
-- regional relevance
-- content organization
-- multilingual product planning
+- regional discoverability
+- language-aware organization
+- localized publishing workflows
+- multilingual product targeting
+- easier contributor onboarding
+- more useful repository taxonomy
 
 ---
 
-## Why this cluster is valuable
+## Why this cluster works
 
-This cluster brings together languages with real educational, regional, and publishing importance.
+These languages form a strong operational cluster for regional delivery, discoverability, and structured content access.
 
-That makes it useful for teams building language-aware Islamic platforms, search tools, and localized delivery systems.
+This is not just a naming exercise. It creates a more usable layer for teams working on search, localization, publishing, and Islamic content distribution.
 
 ---
 
@@ -82,18 +80,33 @@ That makes it useful for teams building language-aware Islamic platforms, search
 
 ---
 
-## Core content lanes
+## What this repository supports
+
+Use this repository for:
+
+- regional Islamic websites
+- multilingual Quran tools
+- Hadith lookup products
+- educational applications
+- content ingestion systems
+- searchable Islamic datasets
+- AI retrieval pipelines
+- localization-ready publishing workflows
+
+---
+
+## Content scope
 
 ### Quran
 - translation discovery
 - surah retrieval
 - aya retrieval
-- JSON-based access workflows
+- JSON-based access
 
 ### Hadith
 - translated hadith access
-- structured retrieval workflows
-- integration-oriented usage
+- API retrieval workflows
+- integration-ready usage
 
 ### General Islamic content
 - books
@@ -109,27 +122,21 @@ That makes it useful for teams building language-aware Islamic platforms, search
 
 This repository is built around the following language codes:
 
-- `ku` — Kurdish
-- `kmr` — Kurmanji
-- `sd` — Sindhi
-- `pa` — Punjabi
-- `ks` — Kashmiri
+- `tr` — Turkish
+- `uz` — Uzbek
+- `kk` — Kazakh
+- `ky` — Kyrgyz
+- `tk` — Turkmen
 
 ---
 
-## Strategic value
+## Discovery value
 
 This repository improves more than access.
 
-It improves structure.
+It improves visibility.
 
-By giving this cluster its own identity, the project gains:
-
-- better discoverability
-- cleaner repository taxonomy
-- stronger language-focused positioning
-- clearer contributor onboarding
-- more usable grouping inside the wider repository family
+Instead of forcing these languages to sit quietly inside a giant all-language structure, this hub creates a cleaner discovery path for users, developers, and content teams building regionally aware Islamic products.
 
 ---
 
