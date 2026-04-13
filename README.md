@@ -7,7 +7,7 @@
 # Kurdish • Kurmanji • Sindhi • Punjabi • Kashmiri
 ## Islam • Quran • Hadith • Data • JSON • API
 
-### A flagship repository for high-value Islamic content access across frontier language communities
+### A flagship repository for trusted Islamic content access across important language communities
 
 <br>
 
@@ -27,7 +27,7 @@
 
 <br><br>
 
-> **Built for teams that need trusted Islamic content delivery across important language communities that are often underserved, fragmented, or buried inside larger multilingual repositories.**
+> **Built for teams that need reliable Islamic content delivery across language communities that are often harder to surface inside large multilingual repositories.**
 
 </div>
 
@@ -43,32 +43,32 @@ This repository creates a dedicated access hub for:
 - Punjabi
 - Kashmiri
 
-Its role is not to be a giant multilingual archive.
+Its purpose is not to be a massive all-language archive.
 
-Its role is to give this cluster a cleaner, more visible, and more useful home for structured Islamic content work.
+Its purpose is to give this cluster a cleaner, more visible, and more useful home for structured Islamic content access.
 
 ---
 
 ## Why this repository matters
 
-These languages should not be treated as an afterthought inside oversized multilingual collections.
+These languages should not disappear inside oversized multilingual repositories.
 
-They deserve a dedicated repository surface because they matter for:
+A dedicated repository improves:
 
-- regional and cross-border content access
-- language-aware Islamic publishing
-- localized educational delivery
-- structured search and indexing
-- multilingual product design
-- more accurate repository segmentation
+- visibility
+- language targeting
+- contributor clarity
+- regional relevance
+- content organization
+- multilingual product planning
 
 ---
 
-## Why this cluster is strategically strong
+## Why this cluster is valuable
 
-This cluster combines languages with real religious, educational, and regional relevance into one operational access layer. [file:419][file:418]
+This cluster brings together languages with real educational, regional, and publishing importance.
 
-That gives developers and content teams a clearer way to organize delivery, build interfaces, and expand Islamic knowledge access without drowning inside broader language pools. [file:419]
+That makes it useful for teams building language-aware Islamic platforms, search tools, and localized delivery systems.
 
 ---
 
@@ -121,15 +121,15 @@ This repository is built around the following language codes:
 
 This repository improves more than access.
 
-It improves position.
+It improves structure.
 
 By giving this cluster its own identity, the project gains:
 
-- higher visibility
-- cleaner contributor logic
-- stronger language targeting
 - better discoverability
-- more useful taxonomy across the wider repository family
+- cleaner repository taxonomy
+- stronger language-focused positioning
+- clearer contributor onboarding
+- more usable grouping inside the wider repository family
 
 ---
 
